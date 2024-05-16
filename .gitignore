@@ -37,7 +37,4 @@ build/
 ### Mac OS ###
 .DS_Store
 Dockerfile
-controller
-model
-repository
-BookControllerTest.java
+
